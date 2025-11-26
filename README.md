@@ -75,5 +75,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" height="25" width="25" title="JSON" /> <!-- JSON -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg" alt="XML" height="25" width="25" title="XML" /> <!-- XML -->
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="25" width="25" title="Jira" /> <!-- Jira -->
+  <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="25" width="25" title="Confluence" /> <!-- Confluence -->
   
 </details>
