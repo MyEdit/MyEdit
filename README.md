@@ -13,7 +13,7 @@
   - VTK + ITK (medical imaging, DICOM)
   - wxWidgets (GUI)
 - 🛠 I also work with **Minecraft modding (FML 1.7.10)** and maintain my own modding studio **[CraftEngine](https://craftengine-studio.gitbook.io/craftenginestudio)**
-- 📡 I build device emulators that communicate via TCP using custom protocols
+- 📡 I build device emulators that communicate via TCP/UDP using custom protocols
 - 📚 Currently improving my knowledge in **3D visualization & medical imaging**
 
 ## 🏆 Featured Projects
